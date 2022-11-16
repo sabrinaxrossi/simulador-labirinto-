@@ -1,0 +1,16 @@
+{
+  "name": "simulador-labirinto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sabrinaxrossi",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.11.9",
+    "cli-color": "^2.0.3",
+    "node-fetch": "^3.3.0"
+  }
+}
